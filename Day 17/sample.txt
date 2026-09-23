@@ -1,0 +1,12 @@
+Machine Learning is a branch of Artificial Intelligence.
+
+Machine Learning allows computers to learn patterns from data and make predictions without being explicitly programmed for every task.
+
+There are three common types of Machine Learning:
+Supervised Learning, Unsupervised Learning, and Reinforcement Learning.
+
+Supervised Learning uses labeled data for training.
+Unsupervised Learning finds patterns in data without labeled answers.
+Reinforcement Learning learns through rewards and penalties.
+
+Retrieval-Augmented Generation, or RAG, combines information retrieval with a language model. RAG first retrieves relevant information from documents and then uses an LLM to generate an answer.
